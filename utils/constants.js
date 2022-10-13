@@ -1,0 +1,1 @@
+export const CONTRACT_ADDRESS = "0x034FBf90dC93B152F2AD2Cee30d972Fe707ae2a7"; // Goerli testnet
